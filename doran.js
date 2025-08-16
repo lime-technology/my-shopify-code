@@ -5,7 +5,7 @@
 
 <script>
   window.addEventListener("load", function() {
-    document.body.style.display = "block";
+    document.body.style.display = "none";
   });
 </script>
 
@@ -49,6 +49,7 @@
   window.addEventListener("load", function() {
     document.body.style.display = "block";
   });
+
 
 
 
