@@ -1,8 +1,7 @@
-// This is doran Javascript
-console.log("Hello from doran.js");
-alert("Hello from doran.js");
 
-
+  window.addEventListener("load", function() {
+    document.body.style.display = "none";
+  });
 
 
 
