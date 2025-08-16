@@ -1,14 +1,9 @@
 
 
-  document.addEventListener("DOMContentLoaded", function () {
-
-  window.addEventListener("load", function() {
-    document.body.style.display = "none";
-  });
-    
-  });
-
-
+document.addEventListener("DOMContentLoaded", function () {
+  console.log("✅ doran.js loaded and running!");
+  alert("Hello from doran.js 🚀");
+});
 
 
 
