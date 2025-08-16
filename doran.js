@@ -1,18 +1,16 @@
-// "Rename main.js to script.js"
 
 
 
 
-<script>
-  window.addEventListener("load", function() {
-    document.body.style.display = "none";
-  });
-</script>
 
 
 
 
   document.addEventListener("DOMContentLoaded", function () {
+  window.addEventListener("load", function() {
+    document.body.style.display = "none";
+  });
+    
     const links = document.querySelectorAll(".tabbtnflex .tab-link");
     const sectionIds = {
       0: "shopify-section-template--18784325140702__featured_collection_nkbx8d",
@@ -49,6 +47,7 @@
   window.addEventListener("load", function() {
     document.body.style.display = "block";
   });
+
 
 
 
