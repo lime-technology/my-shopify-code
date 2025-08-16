@@ -1,10 +1,8 @@
-// c06a59e
 
-document.addEventListener("DOMContentLoaded", function () {
-  console.log("✅ doran.js loaded and running!");
-  alert("Hello from doran.js 🚀");
-});
 
+  window.addEventListener("load", function() {
+    document.body.style.display = "none";
+  });
 
 
 
