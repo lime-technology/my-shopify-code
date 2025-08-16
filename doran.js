@@ -1,5 +1,14 @@
 // "Rename main.js to script.js"
 
+
+
+
+  window.addEventListener("load", function() {
+    document.body.style.display = "none";
+  });
+
+
+
   document.addEventListener("DOMContentLoaded", function () {
     const links = document.querySelectorAll(".tabbtnflex .tab-link");
     const sectionIds = {
@@ -37,6 +46,7 @@
   window.addEventListener("load", function() {
     document.body.style.display = "block";
   });
+
 
 
 
