@@ -1,4 +1,4 @@
-
+// "Rename main.js to script.js"
 
   document.addEventListener("DOMContentLoaded", function () {
     const links = document.querySelectorAll(".tabbtnflex .tab-link");
@@ -31,3 +31,4 @@
       });
     });
   });
+
