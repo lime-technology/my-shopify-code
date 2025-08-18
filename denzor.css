@@ -459,6 +459,14 @@
       summary.header__menu-item.list-menu__item.link.focus-inset {
       font-size: 14px;
       }
+      .tab-section.active {
+      display: block;
+      opacity: 1;
+      }
+      
+      .tabbtnflex .tab-link.active {
+      font-weight: bold;
+      }
 
   @media(max-width:540px){
       .section-template--18784325140702__collection_list_Dqd9Xp-padding ul {
@@ -581,6 +589,7 @@
       justify-content: flex-start !important; 
       }
       }
+
 
 
 
