@@ -239,7 +239,7 @@ span.header__menu-item.list-menu__item.link.link--text.focus-inset.caption-large
       span.wbhcartitem {
       font-size: 9px !important;
       border-radius: 16px;
-      padding: 0px 4px;
+      padding: 0px 5px;
       background: #f58424;
       }
       #cart-icon-bubble.bubble-center {
@@ -592,6 +592,7 @@ span.header__menu-item.list-menu__item.link.link--text.focus-inset.caption-large
       justify-content: flex-start !important; 
       }
       }
+
 
 
 
