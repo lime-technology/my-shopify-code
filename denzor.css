@@ -172,12 +172,12 @@ span.header__menu-item.list-menu__item.link.link--text.focus-inset.caption-large
       gap: 11px;
       }
       .tabbtnflex a {
-    font-size: 14px;
-    border: 1px solid #000;
-    border-radius: 5px;
-    padding: 6px 23px;
-    color: black;
-    background: #fff;
+      font-size: 14px;
+      border: 1px solid #000;
+      border-radius: 5px;
+      padding: 6px 23px;
+      color: black;
+      background: #fff;
       }
       a.tab-link.active {
       color: #fff;
@@ -592,6 +592,7 @@ span.header__menu-item.list-menu__item.link.link--text.focus-inset.caption-large
       justify-content: flex-start !important; 
       }
       }
+
 
 
 
