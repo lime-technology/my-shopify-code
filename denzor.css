@@ -13,9 +13,9 @@
       ul.list-menu.list-menu--inline {
       gap: 40px;
       }
-span.header__menu-item.list-menu__item.link.link--text.focus-inset.caption-large {
-    font-size: 13px;
-}
+      span.header__menu-item.list-menu__item.link.link--text.focus-inset.caption-large {
+      font-size: 13px;
+      }
       .footer-block.grid__item:nth-child(1) {
       width: 35% !important;
       max-width:35% !important;
@@ -592,6 +592,7 @@ span.header__menu-item.list-menu__item.link.link--text.focus-inset.caption-large
       justify-content: flex-start !important; 
       }
       }
+
 
 
 
