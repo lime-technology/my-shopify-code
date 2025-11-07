@@ -1,0 +1,147 @@
+    body.product_template.template_.blade-flip-smart-key-for-non-push-start-cars .smart_key_checkbox {
+    display: none;
+    }
+    body {
+    background: white !important;
+    }
+    
+    section#shopify-section-template--23022847820089__contact_WyJxmd  .floating-label {
+    opacity: 1;
+    color: #9165ac;
+    }
+    section#shopify-section-template--23022847820089__contact_WyJxmd .input,  section#shopify-section-template--23022847820089__contact_WyJxmd .textarea,  section#shopify-section-template--23022847820089__contact_WyJxmd .select {
+    border-color: #9165ac;
+    }
+    .distributors {
+    font-weight: bold;
+    text-decoration: underline;
+    text-align: center;
+    padding: 27px 4px;
+    font-size: 48px;
+    }
+    .model_select{
+    display:none;
+    }
+     body.product_template.template_.hexa button.button.button--xl.active_btn.smart_key_btn.my_class {
+    pointer-events: none;
+    }
+    body.product_template.template_.hexa p.model_select.error_active {
+    font-weight: bold;
+    margin-bottom: -17px;
+    display: block;
+    color: red;
+    font-size: 15px; */
+    }
+  body.product_template.template_.hexa p.model_select.remove_pera.error_active {
+  color: white;
+  }
+  .price_boat-theme {
+  text-align: center;
+  display: flex;
+  gap: 5px;
+  align-items: center;
+  }
+    .boat-cod_price {
+    border-radius: 4px;
+    width: 185px;
+    padding: 7px 12px;
+    color: #fff;
+    background: #000;
+    }
+    .boat-price span, .boat-cod_price span {
+    font-size: 13px;
+    line-height: 16px;
+    }
+    .boat-price p {
+    text-align: center;
+    }
+    p#updated_price {
+    font-size: 13px;
+    }
+    .actual-price {
+    font-size: 13px;
+    }
+    .emi_check span, .emi_check p {
+    font-size: 13px;
+    }
+    .raina {
+    justify-content:center;
+    display: flex; 
+    margin: 0;
+    padding: 0;
+    }
+    .boat-cod_price {
+    border-radius: 4px;
+    width: 259px;
+    padding: 7px 12px;
+    color: #fff;
+    background: #000;
+    }
+    .avail_offer p {
+    width: fit-content;
+    border-radius: 20px;
+    padding: 0 14px;
+    color: #fff;
+    background: #000;
+    margin-top: 10px !important;
+    }
+    .boat-price {
+    border-radius: 4px;
+    width: 166px;
+    padding: 7px 12px;
+    color: #fff;
+    background: #252957;
+    }
+    p.copy_price_pera {
+    display: none;
+    }
+    .emi_check {
+    border-radius: 4px;
+    width: 198px;
+    padding: 7px 12px;
+    background: #7f5997;
+    color: white;
+    }
+    .emi_check a {
+    text-decoration: underline;
+    font-size: 13px;
+    color: white;
+    }
+    .price_boat-theme {
+    margin-bottom: 24px;
+    }
+    .emi-plans-bx {
+    background: red;
+    }
+    body.collection_template.template_.smartkeys .place-self-center.text-center.sm\:place-self-center.sm\:text-center {
+    display: none;
+    }
+    body.collection_template.template_.smartkeys .content-over-media>:is(img,video,iframe,svg,video-media) {
+    width: 100%;
+    }
+    @media(max-width:480px){
+      body.collection_template.template_.smartkeys .content-over-media>:is(img,video,iframe,svg,video-media) {
+      height: 100%;
+      padding: 20px;
+      }
+      body.collection_template.template_.smartkeys .content-over-media>:is(img,video,iframe,svg,video-media) {
+      width: 100% !important;
+      }
+      body.collection_template.template_.smartkeys image-banner.collection-banner.content-over-media.content-over-media--sm.shadow-block.rounded-lg.text-custom {
+      border-radius: 0;
+      }
+      .distributors {
+      font-size: 29px;
+      }
+      .boat-cod_price {
+      border-radius: 4px;
+      width: 179px !important;
+      }
+      .boat-price {
+      border-radius: 4px;
+      width: 150px !important;
+      }
+      .price_boat-theme {
+      flex-wrap: wrap;
+      }
+    }
