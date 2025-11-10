@@ -145,3 +145,10 @@
       flex-wrap: wrap;
       }
     }
+
+    .hero-swipe-section { width: 100%; overflow: hidden; }
+    .hero-swipe-slider { width: 100%; opacity: 0; transition: opacity 0.4s ease; }
+    .hero-swipe-slider.is-loaded { opacity: 1; }
+    .hero-swipe-slide img { width: 100%; height: auto; object-fit: cover; display: block; }
+    .hero-swipe-slide { max-height: 650px; }
+    @media (max-width: 749px) { .hero-swipe-slide { max-height: 450px; } }
