@@ -1,4 +1,63 @@
-  .nv-bundle--classic {
+.product-features {
+  color: #000;
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.6;
+  margin: 20px auto;
+}
+
+.product-features ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: left;
+}
+
+.product-features li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.product-features .icon {
+  font-size: 18px;
+  margin-right: 8px;
+}
+
+.product-features .note {
+  font-size: 14px;
+  color: #444;
+}
+
+.product-features hr {
+  border: none;
+  border-top: 1px solid #000;
+  margin: 12px 0;
+}
+
+.offer-section {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.offer-title {
+  font-weight: bold;
+  font-size: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.offer-subtext {
+  font-size: 13px;
+  color: #555;
+  margin-top: 4px;
+}
+.mt-product-global.varaitPd {
+    display: none;
+}
+
+
+.nv-bundle--classic {
     margin-top: 22px;
   }
   .nv-bundle-heading {
