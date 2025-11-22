@@ -1,4 +1,102 @@
-    .jdgm-rev-widg__summary {
+  .nv-bundle--classic {
+    margin-top: 22px;
+  }
+  .nv-bundle-heading {
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 14px;
+    text-transform: uppercase;
+  }
+  .nv-offer-row {
+    display: block;
+    border: 1px solid #000;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    overflow: hidden;
+    position: relative;
+    background: #fff;
+    transition: box-shadow 0.15s ease-in-out;
+  }
+  .nv-offer-row input[type="radio"] {
+    position: absolute;
+    top: 20px;
+    left: 18px;
+  }
+  .nv-offer-row.is-active {
+    box-shadow: 0 0 0 2px #000 inset;
+  }
+  .nv-offer-main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    padding: 16px 18px 4px 48px;
+    position: relative;
+  }
+  .nv-offer-left {
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .nv-offer-title {
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .nv-offer-sub {
+    font-size: 11px;
+    color: #000;
+    opacity: 0.8;
+  }
+  .nv-offer-right {
+    text-align: right;
+    min-width: 120px;
+  }
+  .nv-offer-mrp {
+    display: block;
+    text-decoration: line-through;
+    color: #000;
+    opacity: 0.5;
+    font-size: 13px;
+  }
+  .nv-offer-price {
+    font-weight: 700;
+    font-size: 18px;
+  }
+  .nv-offer-badge {
+    position: absolute;
+    right: 0;
+    top: 0;
+    background: #000;
+    color: #fff;
+    font-size: 10px;
+    padding: 5px 18px 4px;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  .nv-offer-bar {
+    background: #000;
+    color: #fff;
+    font-size: 12px;
+    padding: 6px 18px 6px 48px;
+  }
+  @media (max-width: 600px) {
+    .nv-offer-main {
+      flex-wrap: wrap;
+      padding-right: 90px;
+    }
+    .nv-offer-right {
+      text-align: left;
+    }
+    .nv-offer-badge {
+      top: 6px;
+      right: 6px;
+    }
+    .nv-offer-bar {
+      padding-left: 48px;
+    }
+  }
+
+.jdgm-rev-widg__summary {
     display: none !important;
     }
     .footer-content.py-4.py-md-4.py-lg-6 .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
